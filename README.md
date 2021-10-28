@@ -1,4 +1,4 @@
-### final-projects
+# final-projects
 
 # Plantastic :
 a react native gardening app that helps you organize your plants and your garden
