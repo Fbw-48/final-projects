@@ -19,8 +19,9 @@ Real flowery shop client who wants to extend their business in the future.
 * Ruben Sinzig
 * Iulian Stan
 
-# Soon:
-soooooon
+# MPloy:
+ A powerful HR-solution, accessible for multiple user-roles and with a set of tools.
+
 
 ## Team members
 * Dario Evers
