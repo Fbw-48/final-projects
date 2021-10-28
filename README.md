@@ -19,8 +19,8 @@ Real flowery shop client who wants to extend their business in the future.
 * Ruben Sinzig
 * Iulian Stan
 
-# :
-
+# Soon:
+soooooon
 
 ## Team members
 * Dario Evers
