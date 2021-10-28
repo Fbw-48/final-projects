@@ -29,7 +29,7 @@ Real flowery shop client who wants to extend their business in the future.
 * Maryam Payenda
 
 
-# Numtuim:
+# Nuntium:
 A News Website. users can add comment and reply to each other in every Article.
 
 ## Team members
