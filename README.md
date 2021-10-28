@@ -1,9 +1,9 @@
-# final-projects
+### final-projects
 
-## Plantastic :
+# Plantastic :
 a react native gardening app that helps you organize your plants and your garden
 
-# Team members
+## Team members
 * Anna-Catharina Czipf
 * Alina Majewska-Pinda
 * Igal Vilensky
