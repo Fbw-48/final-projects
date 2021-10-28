@@ -1,4 +1,4 @@
-# final-projects
+# Final-projects
 
 # Plantastic :
 a react native gardening app that helps you organize your plants and your garden
@@ -9,4 +9,7 @@ a react native gardening app that helps you organize your plants and your garden
 * Igal Vilensky
 * Viviane Wei Busch-Wallace
 
-## 
+#
+
+
+## Team members
