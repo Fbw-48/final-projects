@@ -1,7 +1,7 @@
 # Final-projects
 
 # Plantastic :
-a react native gardening app that helps you organize your plants and your garden
+A react native gardening app that helps you organize your plants and your garden
 
 ## Team members
 * Anna-Catharina Czipf
@@ -9,7 +9,11 @@ a react native gardening app that helps you organize your plants and your garden
 * Igal Vilensky
 * Viviane Wei Busch-Wallace
 
-#
-
+# Nuntuim:
+A News Website. users can add comment and reply to each other in every Article.
 
 ## Team members
+* Omar Khouja
+* Ahmad Nabbaa 
+
+
