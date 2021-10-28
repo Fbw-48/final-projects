@@ -9,11 +9,28 @@ A react native gardening app that helps you organize your plants and your garden
 * Igal Vilensky
 * Viviane Wei Busch-Wallace
 
+ 
+# Casa Verde:
+Real flowery shop client who wants to extend their business in the future.
+
+## Team members
+* Hamza Darej
+* Angelos Papagiannopoulos
+* Ruben Sinzig
+* Iulian Stan
+
+# :
+
+
+## Team members
+* Dario Evers
+* Mark Alexis Albaran
+* Maryam Payenda
+
+
 # Nuntuim:
 A News Website. users can add comment and reply to each other in every Article.
 
 ## Team members
 * Omar Khouja
 * Ahmad Nabbaa 
-
-
