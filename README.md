@@ -24,7 +24,6 @@ Real flowery shop client who wants to extend their business in the future.
 
 
 ## Team members
-* Dario Evers
 * Mark Alexis Albaran
 * Maryam Payenda
 
