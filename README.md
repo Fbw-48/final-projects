@@ -26,6 +26,7 @@ Real flowery shop client who wants to extend their business in the future.
 ## Team members
 * Mark Alexis Albaran
 * Maryam Payenda
+* Dario Evers
 
 
 # Nuntium:
